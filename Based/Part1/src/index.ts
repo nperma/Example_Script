@@ -1,4 +1,4 @@
-// main.ts
+// index.ts
 // Experiment: [event: chatSend, event: itemUse]
 // Don't forget to import the modules
 import { world, Player } from "@minecraft/server";
